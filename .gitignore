@@ -1,0 +1,5 @@
+# Project clutters
+build
+
+# Visual Studio clutters
+.vs
